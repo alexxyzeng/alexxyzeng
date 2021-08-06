@@ -1,3 +1,3 @@
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=alexxyzeng)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxyzeng&hide=ipynb,html&layout=compact)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxyzeng&hide=ipynb,html,objective-c,swift&layout=compact)
